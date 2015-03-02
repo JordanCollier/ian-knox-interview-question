@@ -1,3 +1,5 @@
+__Note: Please don't fork this repo to work on solutions.__
+
 # Socialytics: The Next Big Thing
 
 I'm excited to annouce the launch of Socialytics, a cutting-edge social media analytics firm. Our primary mission is to analyze Twitter data to assess consumer sentiment.
