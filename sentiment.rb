@@ -1,4 +1,5 @@
 require 'optparse'
+require './lib/command_line_tool'
 
 DEFAULT_SAMPLE_SIZE = 20
 
